@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="$PROJECT_DIR$" t="IncludeRecursive">
+      <e p="Assembly-CSharp-Editor.csproj" t="IncludeRecursive" />
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="AssetReferenceSelectEditor.sln" t="IncludeFlat" />
+      <e p="Assets" t="Include">
+        <e p="AssetReference" t="Include">
+          <e p="Demo" t="Include">
+            <e p="DemoAssets" t="Include">
+              <e p="Shaders" t="Include">
+                <e p="GreyShader.shader" t="Include" />
+              </e>
+            </e>
+            <e p="TestAssetReference.cs" t="Include" />
+          </e>
+          <e p="Editor" t="Include">
+            <e p="AssetReferenceDropdownAssetItem.cs" t="Include" />
+            <e p="AssetReferenceDropdownFolderItem.cs" t="Include" />
+            <e p="AssetReferenceDropdownState.cs" t="Include" />
+            <e p="PathUtility.cs" t="Include" />
+            <e p="SelectAssetReferenceWindow.cs" t="Include" />
+            <e p="WeakReferenceDrawer.cs" t="Include" />
+          </e>
+          <e p="Runtime" t="Include">
+            <e p="References" t="Include">
+              <e p="AssetReference.cs" t="Include" />
+              <e p="AssetReferenceAudioClip.cs" t="Include" />
+              <e p="AssetReferenceMaterial.cs" t="Include" />
+              <e p="AssetReferencePrefab.cs" t="Include" />
+              <e p="AssetReferenceRuntimeAnimatorController.cs" t="Include" />
+              <e p="AssetReferenceScriptableObject.cs" t="Include" />
+              <e p="AssetReferenceShader.cs" t="Include" />
+              <e p="AssetReferenceTextAsset.cs" t="Include" />
+              <e p="AssetReferenceTexture.cs" t="Include" />
+              <e p="WeakReference.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+      </e>
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="Temp/bin" t="ExcludeRecursive" />
+    </e>
+    <e p="$USER_HOME$/Library/Caches/Rider2019.2/extResources" t="IncludeRecursive" />
+    <e p="$USER_HOME$/Library/Caches/Rider2019.2/resharper-host/local/Transient/ReSharperHost/v192/SolutionCaches/_AssetReferenceSelectEditor.-1911039540.00" t="ExcludeRecursive" />
+  </component>
+</project>
